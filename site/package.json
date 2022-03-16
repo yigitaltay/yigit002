@@ -1,0 +1,24 @@
+{
+  "name": "herokuwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yigitaltay/yigit002.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yigitaltay/yigit002/issues"
+  },
+  "homepage": "https://github.com/yigitaltay/yigit002#readme",
+  "description": ""
+}
